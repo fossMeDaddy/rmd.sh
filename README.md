@@ -1,2 +1,9 @@
-# rmd.sh
-pronunciation: "ReleaseMeDaddy!" in uwu voice. distribute your binary releases from a single place.
+# ReleaseMeDaddy! [WIP]
+---
+
+internal tool for distributing binaries.
+
+EXAMPLE USAGE:
+```bash
+curl -sS https://rmd.sh/PKGNAME/PKGVERSION | bash
+```
