@@ -15,7 +15,7 @@ curl -sS https://rmd.sh/PKGNAME/PKGVERSION | bash
 
 **features:**
 - [x] automated installer script to detect and fetch the correct package for the detected arch & os
-- [x] host a simple server to serve the thing
+- [x] host a simple server to serve the thing (simple... my ass)
 - [ ] gh app integration for deploying packages & their version on new pushes
 - [ ] gh app integration for tracking PRs and automatically assigning semver versions & tags
 - [ ] setup up a cloud cross compilation pipeline for building binaries
@@ -28,4 +28,4 @@ there are 2 reasons for that:
 1. I accidentally published the prod DB url in the first commit
 2. the code is a gigantic flaming hot pile of garbage, need to rewrite
 
-i will publish that shortly.
+source code commmiiing sooooooooooooon uwu
