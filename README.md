@@ -1,9 +1,10 @@
 # ReleaseMeDaddy! [WIP]
 ---
 
-internal tool for distributing binaries.
+internal tool for distributing & installing binaries.
 
-EXAMPLE USAGE:
 ```bash
 curl -sS https://rmd.sh/PKGNAME/PKGVERSION | bash
 ```
+
+please create an issue to host your binary :)
