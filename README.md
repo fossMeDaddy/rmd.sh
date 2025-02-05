@@ -28,4 +28,4 @@ there are 2 reasons for that:
 1. I accidentally published the prod DB url in the first commit
 2. the code is a gigantic flaming hot pile of garbage, need to rewrite
 
-source code commmiiing sooooooooooooon uwu
+but dont worry, source code commmiiing sooooooooooooon uwu
