@@ -1,6 +1,8 @@
 # ReleaseMeDaddy! [WIP]
 ---
 
+> can't think of an SFW name...
+
 internal tool for distributing & installing binaries.
 
 ```bash
