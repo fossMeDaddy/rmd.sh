@@ -27,5 +27,3 @@ if you like the idea consider starring the repo, helps me get an idea of what to
 there are 2 reasons for that:
 1. I accidentally published the prod DB url in the first commit
 2. the code is a gigantic flaming hot pile of garbage, need to rewrite
-
-> but dont worry, source code commmiiing sooooooooooooon uwu
