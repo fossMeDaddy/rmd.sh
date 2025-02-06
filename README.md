@@ -1,7 +1,7 @@
 # ReleaseMeDaddy! [WIP]
 ---
 
-> can't think of a SFW name...
+> the best SFW name i could come up with is **Release Manager & Distributor** it's lame but works ig
 
 internal tool for distributing & installing binaries.
 
