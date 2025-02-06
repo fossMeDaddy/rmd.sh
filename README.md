@@ -1,7 +1,7 @@
 # ReleaseMeDaddy! [WIP]
 ---
 
-> can't think of an SFW name...
+> can't think of a SFW name...
 
 internal tool for distributing & installing binaries.
 
